@@ -295,7 +295,7 @@ public enum FontAwesomeType: unichar, CaseIterable {
     case eye = 0xf06e
     case eyeSlash = 0xf070
     case eyedropper = 0xf1fb
-    case fa = 0xf2b4
+    case fontawesome = 0xf2b4
     case facebook = 0xf09a
     
     case facebookOfficial = 0xf230
